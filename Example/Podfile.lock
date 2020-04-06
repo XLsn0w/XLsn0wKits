@@ -1,0 +1,16 @@
+PODS:
+  - XLsn0wKits (0.1.0)
+
+DEPENDENCIES:
+  - XLsn0wKits (from `../`)
+
+EXTERNAL SOURCES:
+  XLsn0wKits:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XLsn0wKits: 0dd0b9ff598696163e5782ba5717ace57325cb51
+
+PODFILE CHECKSUM: 6d149329f4a3aff663129e1790b717f13f304337
+
+COCOAPODS: 1.6.0

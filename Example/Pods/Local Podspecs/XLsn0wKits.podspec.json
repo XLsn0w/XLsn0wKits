@@ -1,0 +1,22 @@
+{
+  "name": "XLsn0wKits",
+  "version": "0.1.0",
+  "summary": "A short description of XLsn0wKits.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xlsn0w/XLsn0wKits",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xlsn0w": "xlsn0wios@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/xlsn0w/XLsn0wKits.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XLsn0wKits/Classes/**/*"
+}
