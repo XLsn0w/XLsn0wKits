@@ -1,5 +1,5 @@
 PODS:
-  - XLsn0wKits (1.0.0)
+  - XLsn0wKits (1.0.2)
 
 DEPENDENCIES:
   - XLsn0wKits (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  XLsn0wKits: edafc184ee398bd92400daf3e92ddeffd791df4e
+  XLsn0wKits: 25d5fc5ba5d9db203f82445234b388dd1963c881
 
-PODFILE CHECKSUM: eb331ef9a8b3000b212140aff83dae9ce613b0e7
+PODFILE CHECKSUM: 6d149329f4a3aff663129e1790b717f13f304337
 
 COCOAPODS: 1.6.0

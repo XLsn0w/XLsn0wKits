@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'XLsn0wKits'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'XLsn0w Kits for Private Pod'
 #  s.description      = ''
 
@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/xlsn0w/XLsn0wKits.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '8.0'
 
   s.source_files = 'XLsn0wKits/Classes/**/*'
   
