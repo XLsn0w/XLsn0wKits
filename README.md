@@ -16,9 +16,9 @@ $ pod lib lint
 
 $ pod spec lint
 
-$ pod repo add XLsn0wKits https://github.com/XLsn0w/podspec.git
+$ pod repo add XLsn0wKits https://github.com/XLsn0w/Specs.git
 
-$ pod repo push XLsn0wKits XLsn0wKits.podspec --sources=https://github.com/XLsn0w/podspec.git
+$ pod repo push XLsn0wKits XLsn0wKits.podspec --sources=https://github.com/XLsn0w/Specs.git
 
 
 
