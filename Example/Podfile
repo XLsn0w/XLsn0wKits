@@ -1,0 +1,15 @@
+use_frameworks!
+
+source 'https://gitee.com/mirrors/CocoaPods-Specs‘
+
+platform :ios, '8.0'
+
+target 'PodLib_Example' do
+  pod 'PodLib', :path => '../'
+
+  target 'PodLib_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
