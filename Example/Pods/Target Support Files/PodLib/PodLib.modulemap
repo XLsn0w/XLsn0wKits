@@ -1,6 +1,0 @@
-framework module PodLib {
-  umbrella header "PodLib-umbrella.h"
-
-  export *
-  module * { export * }
-}
