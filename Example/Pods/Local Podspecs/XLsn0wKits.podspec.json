@@ -1,9 +1,9 @@
 {
   "name": "XLsn0wKits",
-  "version": "0.1.0",
-  "summary": "A short description of XLsn0wKits.",
+  "version": "1.0.0",
+  "summary": "XLsn0w Kits for Private Pod",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/xlsn0w/XLsn0wKits",
+  "homepage": "https://github.com/xlsn0w/PrivatePods",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,11 @@
     "xlsn0w": "xlsn0wios@gmail.com"
   },
   "source": {
-    "git": "https://github.com/xlsn0w/XLsn0wKits.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/xlsn0w/PrivatePods.git",
+    "tag": "1.0.0"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "10.0"
   },
   "source_files": "XLsn0wKits/Classes/**/*"
 }
